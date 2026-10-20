@@ -1,0 +1,12 @@
+# Build output
+Debug/
+Release/
+
+# IDE / editor settings
+.settings/
+.vscode/
+*.launch
+
+# Misc
+*.bak
+*.tmp
